@@ -1,8 +1,6 @@
 # 📘 Engineering Guidelines
 
-Ce repository regroupe mes guides techniques et méthodologiques autour de la préparation des données, de Power BI, Snowflake, SQL, Dataiku et des bonnes pratiques d’analytics engineering.
-
-Ces documents ont pour objectif de formaliser des standards de travail, de structurer les processus analytiques et de faciliter la réutilisation des bonnes pratiques dans différents projets data.
+Ce repository regroupe mes guides techniques et méthodologiques autour de la préparation des données, de Power BI, Snowflake, SQL, Dataiku et des bonnes pratiques d’analytics engineering. Ces documents ont pour objectif de formaliser des standards de travail, de structurer les processus analytiques et de faciliter la réutilisation des bonnes pratiques dans différents projets data.
 
 ---
 
@@ -22,26 +20,10 @@ Ces documents ont pour objectif de formaliser des standards de travail, de struc
 
 ## 🎯 Objectif du repository
 
-Ce repository sert de base de référence pour documenter mes standards personnels en analytics engineering.
-
-Il met en avant ma capacité à :
+Ce repository sert de base de référence pour documenter mes standards personnels en analytics engineering. Il met en avant ma capacité à :
 
 - structurer des processus data de manière claire ;
 - formaliser des standards techniques ;
 - documenter les bonnes pratiques Power BI, Snowflake, SQL et Dataiku ;
 - comparer différents outils de préparation et transformation des données ;
 - produire une documentation réutilisable dans un contexte professionnel.
-
----
-
-## 🛠️ Domaines couverts
-
-- Préparation des données
-- Modélisation Power BI
-- Analyse visuelle et data storytelling
-- Standards Snowflake
-- Bonnes pratiques SQL
-- Pipelines Dataiku
-- Comparaison Snowflake / Dataiku / Power Query
-- Documentation technique
-- Analytics engineering
