@@ -5,7 +5,7 @@
 | Champ | Valeur |
 |---|---|
 | **Titre** | Standard Corporate — Préparation des données pour une exploitation optimale dans Power BI |
-| **Date** | 2026-06-10 |
+| **Date** | N / A |
 | **Auteur / Rôle** | Maryna MOLCHAN / Data Analytics Engineer |
 | **Validation / Approbation** | Responsable BI, Data Architect, Lead Data Engineer, Lead Analytics Engineer, RSSI si applicable |
 | **Public cible** | Data Engineers, BI Developers, Analytics Engineers, Data Analysts, Product Owners Data, Data Stewards, Administrateurs Power BI / Fabric |
