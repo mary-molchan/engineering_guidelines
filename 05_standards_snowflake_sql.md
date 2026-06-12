@@ -1,4 +1,4 @@
-# Standard Corporate — Snowflake SQL
+# Standard Corporate : Snowflake SQL
 
 ## 1. En-tête du document
 
