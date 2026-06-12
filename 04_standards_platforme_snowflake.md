@@ -5,9 +5,8 @@
 | Champ | Valeur |
 |---|---|
 | **Titre** | Standard Corporate — Gouvernance, sécurité, performance et exploitation de la plateforme Snowflake |
-| **Version** | 2.0 |
-| **Date** | 2026-06-12 |
-| **Auteur / Rôle** | Équipe Data Platform & Data Governance |
+| **Date** | N / A |
+| **Auteur / Rôle** | Maryna MOLCHAN / Data Analytics Engineer |
 | **Validation / Approbation** | Head of Data Platform, Lead Data Engineer, Data Architect, RSSI, Data Governance Officer |
 | **Public cible** | Data Engineers, Platform Engineers, Analytics Engineers, Admins Snowflake, Data Architects, Data Stewards, Security Engineers |
 | **Commanditaire** | Direction Data & Performance / DSI |
