@@ -1,13 +1,12 @@
-# Standard Corporate — Répartition de la préparation des données entre Snowflake, Dataiku et Power Query avant reporting Power BI
+# Standard Corporate : Répartition de la préparation des données entre Snowflake, Dataiku et Power Query avant reporting Power BI
 
 ## 1. En-tête du document
 
 | Champ | Valeur |
 |---|---|
 | **Titre** | Standard Corporate — Répartition des responsabilités de préparation des données entre Snowflake, Dataiku et Power Query avant reporting Power BI |
-| **Version** | 2.0 |
-| **Date** | 2026-06-12 |
-| **Auteur / Rôle** | Équipe Data Engineering, Analytics Engineering & BI Governance |
+| **Date** | N / A |
+| **Auteur / Rôle** | Maryna MOLCHAN / Data Analytics Engineer |
 | **Validation / Approbation** | Lead Data Engineer, Data Architect, Head of BI, Data Governance Officer, Platform Owner Snowflake, Platform Owner Dataiku |
 | **Public cible** | Data Engineers, Analytics Engineers, BI Developers, Data Analysts avancés, Data Architects, Product Owners Data, Data Stewards |
 | **Commanditaire** | Direction Data & Performance / DSI / Direction Métier |
