@@ -5,9 +5,8 @@
 | Champ | Valeur |
 |---|---|
 | **Titre** | Standard Corporate — Analyse visuelle et data storytelling dans Power BI |
-| **Version** | 2.0 |
-| **Date** | 2026-06-12 |
-| **Auteur / Rôle** | Équipe BI & Data Governance |
+| **Date** | N / A |
+| **Auteur / Rôle** | Maryna MOLCHAN / Data Analytics Engineer |
 | **Validation / Approbation** | Responsable BI, UX Lead Analytics, Lead Analytics Engineer, Direction Métier |
 | **Public cible** | BI Developers, Data Analysts, Analytics Engineers, Decision Makers, Product Owners, Data Product Owners |
 | **Commanditaire** | Direction Data & Performance / Direction Métier |
