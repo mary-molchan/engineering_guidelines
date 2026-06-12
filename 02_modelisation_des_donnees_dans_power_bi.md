@@ -5,8 +5,7 @@
 | Champ | Valeur |
 |---|---|
 | **Titre** | Standard Corporate — Modélisation des données dans Power BI |
-| **Version** | N/A |
-| **Date** | 2026-06-10 |
+| **Date** | N / A |
 | **Auteur / Rôle** | Maryna MOLCHAN / Data Analytics Engineer |
 | **Validation / Approbation** | Responsable BI, Data Architect, Lead Analytics Engineer, Data Governance Officer |
 | **Public cible** | BI Developers, Data Analysts, Analytics Engineers, Data Engineers, Data Stewards, Product Owners Data |
