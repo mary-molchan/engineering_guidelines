@@ -5,9 +5,8 @@
 | Champ | Valeur |
 |---|---|
 | **Titre** | Standard Corporate — Règles, patterns et meilleures pratiques Snowflake SQL |
-| **Version** | 2.0 |
-| **Date** | 2026-06-12 |
-| **Auteur / Rôle** | Équipe Data Engineering & Analytics Engineering |
+| **Date** | N / A |
+| **Auteur / Rôle** | Maryna MOLCHAN / Data Analytics Engineer |
 | **Validation / Approbation** | Lead Data Engineer, Data Architect, Head of BI, Data Governance Officer |
 | **Public cible** | Data Engineers, Analytics Engineers, BI Developers, Data Analysts avancés, Platform Engineers, Data Stewards |
 | **Commanditaire** | Direction Data & Performance / DSI |
