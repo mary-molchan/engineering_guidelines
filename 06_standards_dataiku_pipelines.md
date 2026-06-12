@@ -1,4 +1,4 @@
-# Standard Corporate — Dataiku Pipelines
+# Standard Corporate : Dataiku Pipelines
 
 ## 1. En-tête du document
 
