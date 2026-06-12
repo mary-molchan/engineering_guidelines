@@ -1,4 +1,4 @@
-# Standard Corporate Power BI — Analyse Visuelle et Data Storytelling
+# Standard Corporate Power BI : Analyse Visuelle et Data Storytelling
 
 ## 1. En-tête du document
 
