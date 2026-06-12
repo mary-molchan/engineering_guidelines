@@ -1,4 +1,4 @@
-# Standard Corporate — Plateforme Snowflake
+# Standard Corporate : Plateforme Snowflake
 
 ## 1. En-tête du document
 
