@@ -1,4 +1,4 @@
-# Standard Corporate Power BI — Modélisation des Données
+# Standard Corporate Power BI : Modélisation des Données
 
 ## 1. En-tête du document
 
