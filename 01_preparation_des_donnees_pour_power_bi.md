@@ -1,4 +1,4 @@
-# Standard Corporate Power BI — Préparation des Données comme Source Optimale
+# Standard Corporate Power BI : Préparation des Données comme Source Optimale
 
 ## 1. En-tête du document
 
